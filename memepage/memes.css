@@ -5,9 +5,14 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: powderblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.title{
+  color: chocolate;
+  font-weight: bold;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
