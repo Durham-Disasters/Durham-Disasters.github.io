@@ -9,11 +9,6 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-main {
-  color: powderblue;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 .title{
   color: chocolate;
   font-weight: bold;
@@ -52,8 +47,6 @@ main {
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
-  color: powderblue;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .marketing h2 {
   font-weight: 400;
@@ -62,8 +55,6 @@ main {
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
-  color: powderblue;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 /* rtl:end:ignore */
 
@@ -73,8 +64,6 @@ main {
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-  color: powderblue;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* Thin out the marketing headings */
@@ -83,8 +72,6 @@ main {
   line-height: 1;
   /* rtl:remove */
   letter-spacing: -.05rem;
-  color: powderblue;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
@@ -97,21 +84,15 @@ main {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
     line-height: 1.4;
-    color: powderblue;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   .featurette-heading {
     font-size: 50px;
-    color: powderblue;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 }
 
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
-    color: powderblue;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 }
